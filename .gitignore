@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.tmp
+*.log
+.streamlit/
+temp_upload.pdf
+extraction_report_*
+xlsx_strings.txt
+.env.example
